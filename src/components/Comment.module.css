@@ -1,0 +1,7 @@
+.commentContainer {
+  border-bottom: solid 1px #FF7F50;
+  padding-bottom: 2vh;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}

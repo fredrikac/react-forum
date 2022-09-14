@@ -1,0 +1,30 @@
+/* Färger: coral #FF7F50 och antikvit #FAEBD7 */
+
+.titleLink {
+  text-decoration: underline;
+  color: #86432a;
+}
+
+.titleLink:hover {
+  text-decoration: underline;
+  color: #FF7F50;
+}
+
+.startMain {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.section {
+  width: 60%;
+  padding: 2vh 5vw;
+  background: white;
+}
+
+
+.heading {
+  color: #FF7F50;
+}
