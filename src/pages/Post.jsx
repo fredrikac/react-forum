@@ -67,8 +67,8 @@ const Post = () => {
         }) : <p>Det här inlägget har inga kommentarer.</p>
     } 
     </section>
-    <Footer />
     </main>
+    <Footer />
     </>
   )
 }
